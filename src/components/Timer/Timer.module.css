@@ -1,0 +1,10 @@
+.timerContainer {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    min-height: 50vh;
+    width: 400px;
+    background-color: #F5F5F5;
+    padding: 20px;
+    font-family: Arial;
+}
